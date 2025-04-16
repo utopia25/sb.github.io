@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>#summer beauty</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- JetBrains Mono フォント読み込み -->
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      margin: 0;
+      background-color: #0033FF;
+      font-family: 'JetBrains Mono', monospace;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    header {
+      font-size: 2.5rem;
+      color: #FFFFFF;
+    }
+  </style>
+</head>
+<body>
+  <header>#summer beauty</header>
+</body>
+</html>
